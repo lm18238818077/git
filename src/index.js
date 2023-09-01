@@ -4,5 +4,5 @@ console.log('我是1.0.0新增  master新增的')
 console.log('2023-0221-0815-50')
 console.log('2023-0221-0829-50')
 console.log('2023-0221-0830-50')
-
+console.log('我是直接从浏览器改的')
 var a = '我是master新增大，区分1.0，1.0没有'
